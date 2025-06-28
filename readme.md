@@ -81,6 +81,8 @@ cd Job-Board-Backend
     PORT=5000
     MONGODB_URI=your_mongodb_url
     JWT_SECRET_KEY=your_jwt_secret
+    JWT_EXPIRES =Token expires in 5 days (adjust as needed)
+    COOKIE_EXPIRE =Cookie expires in 5 days (number only, in days)
     CLOUDINARY_CLOUD_NAME=your_cloud_name
     CLOUDINARY_API_KEY=your_api_key
     CLOUDINARY_API_SECRET=your_api_secret
