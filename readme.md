@@ -69,7 +69,7 @@ Job-Board-Backend/
 
 ### 1. Clone repo
 ```bash
-git clone <repo-url>
+git clone <https://github.com/ShivanHussain/Backend-job-Board>
 cd Job-Board-Backend
 
 
